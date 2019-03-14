@@ -1,0 +1,9 @@
+# VS Files
+.vs/*
+Debug/*.ilk
+Debug/*.pdb
+x64/*
+Scheduler/Debug/*
+Scheduler/x64/*
+Scheduler/pch.cpp
+Scheduler/pch.h
