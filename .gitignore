@@ -7,3 +7,4 @@ Scheduler/Debug/*
 Scheduler/x64/*
 Scheduler/pch.cpp
 Scheduler/pch.h
+Scheduler/*.user
