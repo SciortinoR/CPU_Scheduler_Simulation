@@ -1,3 +1,5 @@
+# CPU Scheduler Simulation
+
 This program simulates a monothreaded CPU scheduler. 
 It runs simulated processes using threads and controls access to the process work through a mutex lock.
 
